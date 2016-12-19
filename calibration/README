@@ -1,0 +1,6 @@
+x.gocde - OpenPegasus testing code, draws an X (not intended for printing)
+
+Hollow_Pyramid.gcode      - http://thingiverse.com/thing:8757
+			  slic3r'd with 50 layers support (open_pegasus2.ini)
+male_female_socket.gcode  - http://thingiverse.com/thing:704409
+			  slic3r'd with 3 layers support (open_pegasus.ini)
